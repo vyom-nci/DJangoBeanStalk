@@ -25,7 +25,7 @@ SECRET_KEY = 'ioa(!^m29vhxjsomt_(!+rngg&(a1-4^07u%qs4h2f!z58@#(g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
